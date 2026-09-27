@@ -1,0 +1,4 @@
+# Supabase project configuration
+
+[functions.video-download]
+verify_jwt = false
